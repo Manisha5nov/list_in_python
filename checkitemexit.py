@@ -4,3 +4,4 @@ if "apple" in b:
     print("yes")
 else :
     print("not")
+    
