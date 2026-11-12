@@ -31,4 +31,3 @@ print(nu)
 
 o=[i.upper() for i in f]
 print(o)
-
