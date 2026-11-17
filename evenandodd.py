@@ -3,5 +3,5 @@ for i in a:
     if i%2==0:
         print("even",i)
     else:
-        print("odd",i)    
+        print("odd",i)
     
