@@ -7,4 +7,3 @@ for i in a:
     if i>0:
         count+=1
         print(count,i)
-        
